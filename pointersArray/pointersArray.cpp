@@ -1,3 +1,4 @@
+// this program uses pointers and arrays 
 #include <iostream>
 using namespace std;
 
