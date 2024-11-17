@@ -1,4 +1,4 @@
-Student Grade Manager
+
 
 Author: Luwam Gebrezgiabhier
 
